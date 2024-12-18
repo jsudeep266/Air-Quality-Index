@@ -1,0 +1,7 @@
+name,phone_number,address,adhar_number
+'Sachin',9876543210,'123 Main St, Mumbai','1234-5678-9101'
+'Virat',9876543211,'456 MG Road, Delhi','2234-5678-9102'
+'Saurav',9876543212,'789 Pipe Rd, Kolkatta','3234-5678-9103'
+'Laxman',9876543213,'101 Maple Blvd, Hyderabad','4234-5678-9104'
+'Rahul',9876543214,'202 Birch Ln, Benguluru','5234-5678-9105'
+'Rohit',9876543211,'789 Pipe Rd, Kolkatta','1234-5678-9101'
